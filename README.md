@@ -1,6 +1,6 @@
 - 👋 OLÁ, ME CHAMO PALOMA!
 - 👀 ESTOU INTERESSADA EM... Python, Analise de dados, SQL, EXCEL, etc... 
-- 🌱 ATUALMENTE EU ESTOU... Fazendo faculdade de Analise e desenvolvimento de sistemas. além de alguns cursos. 
+- 🌱 ATUALMENTE EU ESTOU... Fazendo faculdade de Analise e desenvolvimento de sistema, Além de alguns cursos online. 
 - 💞️ ESTOU QUERENDO COLABORAR EM... algo que me traga mais conhecimento
 - 📫 COMO ME ENCONTRAR?... quando souber me avisa, que eu também estou me procurando.
 - 😄 PRONOMES: Ela/Dela
